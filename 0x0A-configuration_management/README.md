@@ -1,1 +1,1 @@
-Learning to use puppet configuration management
+Learning how to use puppet configuration management
